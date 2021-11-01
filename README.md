@@ -7,31 +7,31 @@
 
 
 ## 登录（学生端，老师端）
-![登录界面](photos/login.jpg)  ![学生登录](photos/login_stu.jpg) ![登录失败](photos/login_failed.jpg) 
+![登录界面](photos/login.png)  ![学生登录](photos/login_stu.png) ![登录失败](photos/login_failed.png) 
 
 ## 注册
 ### 教师端
-![教师注册](photos/reg_tea.jpg)
+![教师注册](photos/reg_tea.png)
 ### 学生端
-![学生注册](photos/reg_stu.jpg)  ![注册成功](photos/reg_suc.jpg)
+![学生注册](photos/reg_stu.png)  ![注册成功](photos/reg_suc.png)
 
 ##地图显示
 ### 教师端
-![教师地图](photos/map_tea_0.jpg) ![教师地图点击](photos/map_tea_1.jpg)
+![教师地图](photos/map_tea_0.png) ![教师地图点击](photos/map_tea_1.png)
 ### 学生端
-![学生地图信息显示](photos/map_stu_0.jpg)  ![学生地图](photos/map_stu_1.jpg)  ![其他功能](photos/map_stu_2.jpg)
+![学生地图信息显示](photos/map_stu_0.png)  ![学生地图](photos/map_stu_1.png)  ![其他功能](photos/map_stu_2.png)
 
 ## 学生端：同学信息列表
-![同学列表](photos/classmate_0.jpg) ![同学列表按钮](photos/classmate_1.jpg)
+![同学列表](photos/classmate_0.png) ![同学列表按钮](photos/classmate_1.png)
 
 ## 教师端：学生位置信息列表
-![学生列表](photos/stu_list_0.jpg) ![学生列表按钮](photos/stu_list_1.jpg)
+![学生列表](photos/stu_list_0.png) ![学生列表按钮](photos/stu_list_1.png)
 
 ## 教师端：发布通知
-![发布通知](photos/add_msg.jpg) ![发布成功](photos/add_msg_suc.jpg)
+![发布通知](photos/add_msg.png) ![发布成功](photos/add_msg_suc.png)
 
 ## 学生端：查看通知
-![查看通知](photos/msg_list.jpg) ![通知详情](photos/msg_detail.jpg)
+![查看通知](photos/msg_list.png) ![通知详情](photos/msg_detail.png)
 
 ## 退出登录
-![退出登录](photos/logout.jpg)
+![退出登录](photos/logout.png)
